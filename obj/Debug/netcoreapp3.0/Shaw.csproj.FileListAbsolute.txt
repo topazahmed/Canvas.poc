@@ -1,0 +1,11 @@
+/Users/topaz/Downloads/Shaw.Skill/Shaw/bin/Debug/netcoreapp3.0/Shaw
+/Users/topaz/Downloads/Shaw.Skill/Shaw/bin/Debug/netcoreapp3.0/Shaw.deps.json
+/Users/topaz/Downloads/Shaw.Skill/Shaw/bin/Debug/netcoreapp3.0/Shaw.runtimeconfig.json
+/Users/topaz/Downloads/Shaw.Skill/Shaw/bin/Debug/netcoreapp3.0/Shaw.runtimeconfig.dev.json
+/Users/topaz/Downloads/Shaw.Skill/Shaw/bin/Debug/netcoreapp3.0/Shaw.dll
+/Users/topaz/Downloads/Shaw.Skill/Shaw/bin/Debug/netcoreapp3.0/Shaw.pdb
+/Users/topaz/Downloads/Shaw.Skill/Shaw/obj/Debug/netcoreapp3.0/Shaw.csprojAssemblyReference.cache
+/Users/topaz/Downloads/Shaw.Skill/Shaw/obj/Debug/netcoreapp3.0/Shaw.AssemblyInfoInputs.cache
+/Users/topaz/Downloads/Shaw.Skill/Shaw/obj/Debug/netcoreapp3.0/Shaw.AssemblyInfo.cs
+/Users/topaz/Downloads/Shaw.Skill/Shaw/obj/Debug/netcoreapp3.0/Shaw.dll
+/Users/topaz/Downloads/Shaw.Skill/Shaw/obj/Debug/netcoreapp3.0/Shaw.pdb
